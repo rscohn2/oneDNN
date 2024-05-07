@@ -1,4 +1,4 @@
-[![UXL Foundation Logo](https://github.com/uxlfoundation/artwork/blob/main/foundation/uxl-foundation-logo-horizontal-color.png)][UXL Foundation]
+[<img src="https://github.com/uxlfoundation/artwork/blob/main/foundation/uxl-foundation-logo-horizontal-color.png" width="250" alt="UXL Foundation Logo">](UXL Foundation)
 
 oneAPI Deep Neural Network Library (oneDNN)
 ===========================================
